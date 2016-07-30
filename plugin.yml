@@ -1,0 +1,12 @@
+name: BetterFly
+version: 1.0
+author: Proplex (David Lohle)
+description: Fly
+main: com.ipwnage.betterfly.BetterFly
+commands:
+   fly:
+      description: Toggle fly
+      usage: /fly
+   flyspeed:
+      description: Set flight speed
+      usage: /flyspeed <number 1 through 10>
